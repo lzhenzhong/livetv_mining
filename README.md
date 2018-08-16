@@ -15,8 +15,8 @@
 
 使用中有问题或更新建议，欢迎提issue或用以下联系方式跟我交流：
 
-* 邮件: zwtzjd@gmail.com
-* QQ: 3084582097
+* 邮件: 15012451857@163.com
+* QQ: 353493914
 
 #### 历程
 
@@ -43,9 +43,3 @@
 
 ### 捐助开发者
 ***
-
-如果你喜欢我的作品 or 站点对你有所帮助，希望能支持我一下。
-
-| 微信 | 支付宝 |
-| ------ | ------ |
-| <img width="80%" src="http://ww4.sinaimg.cn/large/77ef2ab1gw1f2ne2zgy4zj20bt0bqq4s.jpg"> | ![alipay](http://ww3.sinaimg.cn/mw690/77ef2ab1gw1f2ne2zc10cj209a09bdgz.jpg) |
